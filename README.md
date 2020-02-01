@@ -30,9 +30,9 @@ def: "Un sistema embebido es un sistema de computación deiseñado para realizar
   - Analizar diferentes opciones y hacer un buen balance entre precio, prestaciones, disponibilidad, soporte, etc. 
   - Contar con capacidad de procesamiento suficiente para usar lenguajes de programación de alto nivel y usar sistemas operativos. 
   - Usar herramientas para
-    [ ] definir funcionalidad mediante diagramas
-    [ ] generar documentación automáticamente
-    [ ] simular el funcionamiento del sistema
+    - definir funcionalidad mediante diagramas
+    - generar documentación automáticamente
+    - simular el funcionamiento del sistema
  
 - Restricciones temporales:
   - En algunos casos el tiempo es crítico. p/e: monitoreo de vibraciones
